@@ -3,12 +3,12 @@
 :root {
   --primary: white;
   --secondary: #88C2E6;
-  --background-color: #3B3B3B;
+  --background-color: #262626;
   --button-font-color: #292929;
 }
 
 body {
-  background-color: #3B3B3B;
+  background-color: #262626;
   font-family: "Source Sans Pro", sans-serif;
   padding: 0;
   margin: 0;
